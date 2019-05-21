@@ -1,5 +1,5 @@
 # Contributors
-
+- [Solomon_Gugsa] (https://github.com/soulsolomon)
 - [baclona] (https://github.com/gb853940223)
 - [Hossain Riazati] (https://github.com/rriazati) 
 - [Stefan Speter] (https://github.com/StefanYYC)
